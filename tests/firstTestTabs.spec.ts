@@ -58,13 +58,3 @@ test.describe('Tabs Test', () => {
 
 
 
-
-/*test.describe('First Test Tabs', () => {
-    test.beforeEach( async ({page}) => {
-    await page.getByText('Forms').click();
-    await page.getByText('Form Layouts').click(); 
-    });
-
-    test('imput fields', async({page}) => {
-
-    })*/
